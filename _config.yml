@@ -6,8 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+# Site Settings
 title                    : "Jiahao Li"
-description              : "Undergraduate student at Sichuan University. Research interests include Programmable photonic devices, Optical computing, and AI-assisted inverse design for photonic device."
+description              : "Undergraduate student at Sichuan University. Research interests include programmable photonic devices, optical computing, and AI-assisted inverse design for photonic devices."
+url                      : "https://jiahaolii.github.io"
+baseurl                  : ""
 repository               : "JiahaoLii/JiahaoLii.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +25,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jiahao Li"
-  avatar           : "/images/profile.jpg"
+  avatar           : "images/profile.jpg"
   bio              : "Undergraduate Student, Sichuan University"
   location         : "ChengDu, China"
   employer         :
