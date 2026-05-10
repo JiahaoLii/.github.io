@@ -1,3 +1,8 @@
+---
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
 <sup>†</sup> Co-first author. <sup>*</sup> Corresponding author.
 
 ## 2026
