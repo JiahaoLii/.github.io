@@ -21,7 +21,6 @@ I am an undergraduate student in Electronic Information Engineering at Sichuan U
 
 My current research focuses on Programmable photonic devices, opto-logic devices, and AI-assisted electromagnetic field modeling. I am also interested in silicon photonics, optical neural networks, and AI-assisted inverse design.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
@@ -30,31 +29,23 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+Photonics
+1.Yu-Sheng Lin†*, Jiahao Li†, and Yunche Zhu. “Electrostatically Programmable Terahertz Metadevice for Parallel Opto-Logic Functions.” Advanced Optical Materials, Published. (JCR Q1, IF 7.2)
+2.Yu-Sheng Lin†*, Jiahao Li†, Hao Qin, and Yunche Zhu. “Reconfigurable Terahertz Metamaterial Inverse Configuration Programming for Universal All-Optical Logic.” Laser & Photonics Reviews, Under Review. (JCR Q1, IF 10.0)
+3.Yu-Sheng Lin†* and Jiahao Li†. “MEMS Programmable Metasurface Tag with Updatable Terahertz Spectral Codebooks for High-Accuracy Identification and Authentication.” Advanced Functional Materials, Under Review. (JCR Q1, IF 19.0)
+4.Yu-Sheng Lin†*, Jiahao Li†, Yunche Zhu, and Daoye Zheng. “Electric Split-Ring Resonator with Tunable Electromagnetically Induced Transparency Filtering, Switching, Attenuating and Sensing.” Results in Engineering, Published. (JCR Q1, IF 7.9)
+5.Yu-Sheng Lin*, Yuxuan Xia, Jiahao Li, and Yunche Zhu. “Electromechanically Perfect Metamaterial Absorber with Ultrahigh Polarization Dependence on Infrared Sensing and Imaging Characteristics.” Results in Engineering, Published. (JCR Q1, IF 7.9) 
+Machine learning (AI for Science)
+6.Jiahao Li, Jingxin Xue, Keqi Ni, Kunyu Wu, Hao Qin*, Xinyue Zhang, and Xingqi Zhang. “Spatio-Sequential Recurrent Network for 3-D Tunnel Propagation Modeling.” IEEE Antennas and Wireless Propagation Letters, Under Review. (JCR Q1, IF 4.8)
+7.Jingxin Xue, Jiahao Li, Hao Qin*, Xinyue Zhang, and Xingqi Zhang. “A Generalizable Physics-Inspired Deep Learning Framework for 3-D Electromagnetic Field Reconstruction.” IEEE TRANSACTIONS ON ANTENNAS AND PROPAGATION, Under Review. (JCR Q1, IF 5.8)
+8.Jiahao Li, Jingxin Xue, Yongyuan Hu, Yuqi Ouyang, Hao Qin*, Xinyue Zhang, and Xingqi Zhang. “Coarse-to-Fine Reconstruction for Tunnel Propagation via Axial Recurrent Upsampling.” IEEE International Conference on Computational Electromagnetics, Accepted.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - 2027.06 (now)*, B.Eng. in Electronic Information Engineering, School of Electronic Information, Sichuan University, Chengdu, China.
+- *2020.09 - 2023.07*, High School Diploma, The High School Affiliated to Peking University, Beijing, China.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
