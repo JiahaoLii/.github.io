@@ -17,11 +17,6 @@
   *Advanced Functional Materials*, Under Review.  
   *(JCR Q1, IF 19.0)*
 
-- Yu-Sheng Lin<sup>†*</sup>, **Jiahao Li<sup>†</sup>**, Yunche Zhu, and Daoye Zheng,  
-  “Electric Split-Ring Resonator with Tunable Electromagnetically Induced Transparency Filtering, Switching, Attenuating and Sensing.”  
-  *Results in Engineering*, Published.  
-  *(JCR Q1, IF 7.9)*
-
 - Yu-Sheng Lin<sup>*</sup>, Yuxuan Xia, **Jiahao Li**, and Yunche Zhu,  
   “Electromechanically Perfect Metamaterial Absorber with Ultrahigh Polarization Dependence on Infrared Sensing and Imaging Characteristics.”  
   *Results in Engineering*, Published.  
@@ -40,3 +35,10 @@
 - **Jiahao Li**, Jingxin Xue, Yongyuan Hu, Yuqi Ouyang, Hao Qin<sup>*</sup>, Xinyue Zhang, and Xingqi Zhang,  
   “Coarse-to-Fine Reconstruction for Tunnel Propagation via Axial Recurrent Upsampling.”  
   *IEEE International Conference on Computational Electromagnetics*, Accepted.
+
+## 2025
+
+  - Yu-Sheng Lin<sup>†*</sup>, **Jiahao Li<sup>†</sup>**, Yunche Zhu, and Daoye Zheng,  
+  “Electric Split-Ring Resonator with Tunable Electromagnetically Induced Transparency Filtering, Switching, Attenuating and Sensing.”  
+  *Results in Engineering*, Published.  
+  *(JCR Q1, IF 7.9)*
