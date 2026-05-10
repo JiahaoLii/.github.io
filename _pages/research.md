@@ -6,24 +6,26 @@ author_profile: true
 
 # Research
 
-## Programmable Photonic and Terahertz Metamaterial Devices
+My research lies at the intersection of photonics, electromagnetics, and artificial intelligence. I am interested in programmable photonic devices, reconfigurable terahertz metamaterials, AI-assisted electromagnetic modeling, and inverse design for integrated photonic systems.
 
-My research explores reconfigurable photonic and electromagnetic devices, with a focus on MEMS-tunable terahertz metamaterials, opto-logic devices, and programmable spectral responses.
+## Programmable Terahertz Metamaterials and Opto-Logic
 
-## Reconfigurable Terahertz Metamaterials for Opto-Logic
+I work on MEMS-tunable terahertz metamaterial platforms for programmable spectral responses and opto-logic operation. By independently controlling electrostatically actuated cantilevers, the devices can produce tunable resonances and EIT-like spectral features.
 
-This project develops MEMS-tunable terahertz metamaterial platforms for programmable opto-logic operation. By independently controlling electrostatically actuated cantilevers, the device can generate tunable resonance and EIT-like spectral responses.
+A key part of this work is to treat opto-logic realization as an inverse-configuration problem. Instead of manually selecting physical states and then checking the resulting logic behavior, the target Boolean function is used as the input to search for feasible device states, operating frequency, polarization, and decision threshold.
 
-A key part of this work is to formulate logic realization as an inverse-configuration problem. Instead of manually selecting device states and then checking the resulting logic behavior, the target Boolean function is used as the starting point to search for feasible physical states, operating frequency, polarization, and decision threshold.
+## Reconfigurable Terahertz Spectral Tags
 
-## Programmable Terahertz Spectral Tags
+I also explore programmable terahertz metasurface tags for identification and authentication. In this direction, device states are selected from tunable spectral libraries to construct updatable spectral codebooks.
 
-This project explores reconfigurable terahertz metasurface tags based on independently tunable dual-cantilever unit cells. By selecting suitable spectral codebooks and using drift-aware decoding, the system can improve identification and authentication robustness under frequency drift and amplitude mismatch.
+To improve practical robustness, I use drift-aware decoding and few-frequency readout strategies to reduce the influence of frequency drift and amplitude mismatch.
 
 ## AI-Assisted Electromagnetic Field Modeling
 
-This project develops machine-learning-assisted methods for electromagnetic field prediction. The model combines physics-based propagation priors with neural residual learning, aiming to improve field reconstruction accuracy while reducing the burden of purely data-driven modeling.
+My machine-learning work focuses on electromagnetic field prediction and reconstruction. I use physics-inspired baselines together with neural residual learning to improve generalization and reduce the burden of purely data-driven modeling.
+
+Recent work includes spatio-sequential recurrent modeling, physics-inspired 3-D electromagnetic field reconstruction, and coarse-to-fine neural architectures for tunnel propagation modeling.
 
 ## Future Interests
 
-I am interested in extending these research directions toward silicon photonics, programmable photonic systems, optical neural networks, and AI-assisted inverse design for integrated photonic devices.
+I am interested in extending these methods toward silicon photonics, programmable photonic systems, optical neural networks, and AI-assisted inverse design for integrated photonic devices.
