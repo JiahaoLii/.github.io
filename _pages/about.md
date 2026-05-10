@@ -29,16 +29,50 @@ My current research focuses on Programmable photonic devices, opto-logic devices
 
 # 📝 Publications 
 
-Photonics
-1.Yu-Sheng Lin†*, Jiahao Li†, and Yunche Zhu. “Electrostatically Programmable Terahertz Metadevice for Parallel Opto-Logic Functions.” Advanced Optical Materials, Published. (JCR Q1, IF 7.2)
-2.Yu-Sheng Lin†*, Jiahao Li†, Hao Qin, and Yunche Zhu. “Reconfigurable Terahertz Metamaterial Inverse Configuration Programming for Universal All-Optical Logic.” Laser & Photonics Reviews, Under Review. (JCR Q1, IF 10.0)
-3.Yu-Sheng Lin†* and Jiahao Li†. “MEMS Programmable Metasurface Tag with Updatable Terahertz Spectral Codebooks for High-Accuracy Identification and Authentication.” Advanced Functional Materials, Under Review. (JCR Q1, IF 19.0)
-4.Yu-Sheng Lin†*, Jiahao Li†, Yunche Zhu, and Daoye Zheng. “Electric Split-Ring Resonator with Tunable Electromagnetically Induced Transparency Filtering, Switching, Attenuating and Sensing.” Results in Engineering, Published. (JCR Q1, IF 7.9)
-5.Yu-Sheng Lin*, Yuxuan Xia, Jiahao Li, and Yunche Zhu. “Electromechanically Perfect Metamaterial Absorber with Ultrahigh Polarization Dependence on Infrared Sensing and Imaging Characteristics.” Results in Engineering, Published. (JCR Q1, IF 7.9) 
-Machine learning (AI for Science)
-6.Jiahao Li, Jingxin Xue, Keqi Ni, Kunyu Wu, Hao Qin*, Xinyue Zhang, and Xingqi Zhang. “Spatio-Sequential Recurrent Network for 3-D Tunnel Propagation Modeling.” IEEE Antennas and Wireless Propagation Letters, Under Review. (JCR Q1, IF 4.8)
-7.Jingxin Xue, Jiahao Li, Hao Qin*, Xinyue Zhang, and Xingqi Zhang. “A Generalizable Physics-Inspired Deep Learning Framework for 3-D Electromagnetic Field Reconstruction.” IEEE TRANSACTIONS ON ANTENNAS AND PROPAGATION, Under Review. (JCR Q1, IF 5.8)
-8.Jiahao Li, Jingxin Xue, Yongyuan Hu, Yuqi Ouyang, Hao Qin*, Xinyue Zhang, and Xingqi Zhang. “Coarse-to-Fine Reconstruction for Tunnel Propagation via Axial Recurrent Upsampling.” IEEE International Conference on Computational Electromagnetics, Accepted.
+<sup>†</sup> Equal contribution. <sup>*</sup> Corresponding author.
+
+## Photonics
+
+1. Yu-Sheng Lin<sup>†*</sup>, Jiahao Li<sup>†</sup>, and Yunche Zhu,  
+   **“Electrostatically Programmable Terahertz Metadevice for Parallel Opto-Logic Functions.”**  
+   *Advanced Optical Materials*, Published.  
+   *(JCR Q1, IF 7.2)*
+
+2. Yu-Sheng Lin<sup>†*</sup>, Jiahao Li<sup>†</sup>, Hao Qin, and Yunche Zhu,  
+   **“Reconfigurable Terahertz Metamaterial Inverse Configuration Programming for Universal All-Optical Logic.”**  
+   *Laser & Photonics Reviews*, Under Review.  
+   *(JCR Q1, IF 10.0)*
+
+3. Yu-Sheng Lin<sup>†*</sup> and Jiahao Li<sup>†</sup>,  
+   **“MEMS Programmable Metasurface Tag with Updatable Terahertz Spectral Codebooks for High-Accuracy Identification and Authentication.”**  
+   *Advanced Functional Materials*, Under Review.  
+   *(JCR Q1, IF 19.0)*
+
+4. Yu-Sheng Lin<sup>†*</sup>, Jiahao Li<sup>†</sup>, Yunche Zhu, and Daoye Zheng,  
+   **“Electric Split-Ring Resonator with Tunable Electromagnetically Induced Transparency Filtering, Switching, Attenuating and Sensing.”**  
+   *Results in Engineering*, Published.  
+   *(JCR Q1, IF 7.9)*
+
+5. Yu-Sheng Lin<sup>*</sup>, Yuxuan Xia, Jiahao Li, and Yunche Zhu,  
+   **“Electromechanically Perfect Metamaterial Absorber with Ultrahigh Polarization Dependence on Infrared Sensing and Imaging Characteristics.”**  
+   *Results in Engineering*, Published.  
+   *(JCR Q1, IF 7.9)*
+
+## Machine Learning / AI for Science
+
+6. Jiahao Li, Jingxin Xue, Keqi Ni, Kunyu Wu, Hao Qin<sup>*</sup>, Xinyue Zhang, and Xingqi Zhang,  
+   **“Spatio-Sequential Recurrent Network for 3-D Tunnel Propagation Modeling.”**  
+   *IEEE Antennas and Wireless Propagation Letters*, Under Review.  
+   *(JCR Q1, IF 4.8)*
+
+7. Jingxin Xue, Jiahao Li, Hao Qin<sup>*</sup>, Xinyue Zhang, and Xingqi Zhang,  
+   **“A Generalizable Physics-Inspired Deep Learning Framework for 3-D Electromagnetic Field Reconstruction.”**  
+   *IEEE Transactions on Antennas and Propagation*, Under Review.  
+   *(JCR Q1, IF 5.8)*
+
+8. Jiahao Li, Jingxin Xue, Yongyuan Hu, Yuqi Ouyang, Hao Qin<sup>*</sup>, Xinyue Zhang, and Xingqi Zhang,  
+   **“Coarse-to-Fine Reconstruction for Tunnel Propagation via Axial Recurrent Upsampling.”**  
+   *IEEE International Conference on Computational Electromagnetics*, Accepted.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
