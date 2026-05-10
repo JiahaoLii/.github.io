@@ -13,4 +13,4 @@ Sichuan University
 
 **Email:** lijiahao2023@stu.scu.edu.cn
 
-**GitHub:** [JiahaoLii](https://github.com/JiahaoLii)
+**Phone/Wechat:** 13611226131
