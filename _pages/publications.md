@@ -6,7 +6,7 @@ author_profile: true
 
 # Publications
 
-<sup>†</sup> Equal contribution. <sup>&#42;</sup> Corresponding author.
+<sup>†</sup> Co-first author. <sup>&#42;</sup> Corresponding author.
 
 ## 2026
 
