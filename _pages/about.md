@@ -63,6 +63,14 @@ My current research focuses on Programmable photonic devices, opto-logic devices
 - **Dean’s List Scholarship**
 - **Outstanding Student of Sichuan University**
 
+# Teaching Assistant Experience
+
+- **Digital Circuit Systems & Lab, Fall 2025
+- **Data Structures and Algorithms, Fall 2025
+- **Signals and Systems, Spring 2026
+- **Embedded Processors and Architecture, Spring 2026
+
+  
 # Educations
 - *2023.09 - 2027.06 (now)*, B.Eng. in ECE, School of Electronic Information, Sichuan University, Chengdu, China.
 - *2020.09 - 2023.07*, High School Diploma, The High School Affiliated to Peking University, Beijing, China.
