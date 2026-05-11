@@ -6,26 +6,20 @@ author_profile: false
 
 # Research
 
-My research lies at the intersection of photonics, electromagnetics, and artificial intelligence. I am interested in programmable photonic devices, reconfigurable terahertz metamaterials, AI-assisted electromagnetic modeling, and inverse design for integrated photonic systems.
+My research lies at the intersection of photonics and artificial intelligence. 
 
-## Programmable Terahertz Metamaterials and Opto-Logic
+## Programmable Photonic Devices
 
-I work on MEMS-tunable terahertz metamaterial platforms for programmable spectral responses and opto-logic operation. By independently controlling electrostatically actuated cantilevers, the devices can produce tunable resonances and EIT-like spectral features.
+I work on MEMS-tunable metadevice platforms for programmable spectral responses and opto-logic operation. By independently controlling electrostatically actuated elements, these devices can produce tunable resonances and EIT-like spectral features, enabling reconfigurable terahertz functionality within a compact platform.
 
-A key part of this work is to treat opto-logic realization as an inverse-configuration problem. Instead of manually selecting physical states and then checking the resulting logic behavior, the target Boolean function is used as the input to search for feasible device states, operating frequency, polarization, and decision threshold.
+## Inverse Design for Metasurfaces
 
-## Reconfigurable Terahertz Spectral Tags
-
-I also explore programmable terahertz metasurface tags for identification and authentication. In this direction, device states are selected from tunable spectral libraries to construct updatable spectral codebooks.
-
-To improve practical robustness, I use drift-aware decoding and few-frequency readout strategies to reduce the influence of frequency drift and amplitude mismatch.
+I am interested in inverse design methods for metasurfaces and photonic devices. Instead of relying only on forward parameter sweeping, inverse design starts from a target optical or electromagnetic response and searches for suitable physical structures, device states, or operating conditions. 
 
 ## AI-Assisted Electromagnetic Field Modeling
 
-My machine-learning work focuses on electromagnetic field prediction and reconstruction. I use physics-inspired baselines together with neural residual learning to improve generalization and reduce the burden of purely data-driven modeling.
-
-Recent work includes spatio-sequential recurrent modeling, physics-inspired 3-D electromagnetic field reconstruction, and coarse-to-fine neural architectures for tunnel propagation modeling.
+My machine-learning work focuses on electromagnetic field prediction and reconstruction. I aim to incorporate physics-inspired knowledge into neural networks to improve generalization, reduce the dependence on purely data-driven modeling, and make electromagnetic prediction more efficient and robust.
 
 ## Future Interests
 
-I am interested in extending these methods toward silicon photonics, programmable photonic systems, optical neural networks, and AI-assisted inverse design for integrated photonic devices.
+I am interested in extending these methods toward silicon photonics, optical neural networks, and AI-assisted inverse design for integrated photonic devices.
