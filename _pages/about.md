@@ -19,7 +19,6 @@ My current research focuses on Programmable photonic devices, opto-logic devices
   <div class="news-image">
     <img src="/images/news-2026-aom.jpg" alt="Advanced Optical Materials paper">
   </div>
-
   <div class="news-content">
     <h3>Electrostatically Programmable Terahertz Metadevice for Parallel Opto-Logic Functions</h3>
     <p class="news-meta">Published in <em>Advanced Optical Materials</em>, 2026</p>
