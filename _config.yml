@@ -30,7 +30,7 @@ author:
   location         : "Chengdu, China"
   employer         :
   pubmed           : 
-  googlescholar    : ""
+  googlescholar    : 
   email            : "lijiahao2023@stu.scu.edu.cn"
   researchgate     :
   uri              :
@@ -40,7 +40,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "JiahaoLii"
+  github           : 
 
 # Reading Files
 include:
