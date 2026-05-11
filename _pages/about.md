@@ -17,57 +17,64 @@ You can [click here to download my CV](/files/CV_JiahaoLi.pdf).
 
 # News
 
-<div class="news-card">
-  <div class="news-image">
-    <img src="/images/news-2026-aom.jpg" alt="Advanced Optical Materials paper">
-  </div>
-  <div class="news-content">
-    <h3>Electrostatically Programmable Terahertz Metadevice for Parallel Opto-Logic Functions</h3>
-    <p class="news-meta">Published in <em>Advanced Optical Materials</em>, 2026</p>
-    <p>
-      My work on an electrostatically programmable terahertz metadevice for parallel opto-logic functions has been published in <em>Advanced Optical Materials</em>. This work demonstrates reconfigurable terahertz spectral responses and programmable opto-logic operation based on MEMS-tunable metamaterials.
-    </p>
-  </div>
-</div>
+<div class="news-list">
 
-<div class="news-card">
-  <div class="news-image">
-    <img src="/images/news-2026-RIE.jpg" alt="Results in Engineering paper">
+  <div class="news-card">
+    <div class="news-image">
+      <img src="/images/news-2026-aom.jpg" alt="Advanced Optical Materials paper">
+    </div>
+    <div class="news-content">
+      <div class="news-date">2026 · Published</div>
+      <h3>Electrostatically Programmable Terahertz Metadevice for Parallel Opto-Logic Functions</h3>
+      <p class="news-meta"><em>Advanced Optical Materials</em></p>
+      <p>
+        My work on an electrostatically programmable terahertz metadevice for parallel opto-logic functions has been published in <em>Advanced Optical Materials</em>. This work demonstrates reconfigurable terahertz spectral responses and programmable opto-logic operation based on MEMS-tunable metamaterials.
+      </p>
+    </div>
   </div>
-  <div class="news-content">
-    <h3>Electromechanically Perfect Metamaterial Absorber with Ultrahighly Polarization Dependence on Infrared Sensing and Imaging Characteristics</h3>
-    <p class="news-meta">Published in <em>Results in Engineering</em>, 2026</p>
-    <p>
-      We present a design of an electromechanically perfect meta-absorber that shows perfect absorptivity and exhibits great potential in sensing, detection and imaging applications in the IR wavelength range.
-    </p>
-  </div>
-</div>
 
-<div class="news-card">
-  <div class="news-image">
-    <img src="/images/news-2026-ICCEM.jpg" alt="ICCEM paper">
+  <div class="news-card">
+    <div class="news-image">
+      <img src="/images/news-2026-RIE.jpg" alt="Results in Engineering paper">
+    </div>
+    <div class="news-content">
+      <div class="news-date">2026 · Published</div>
+      <h3>Electromechanically Perfect Metamaterial Absorber with Ultrahigh Polarization Dependence on Infrared Sensing and Imaging Characteristics</h3>
+      <p class="news-meta"><em>Results in Engineering</em></p>
+      <p>
+        This work presents an electromechanically tunable perfect metamaterial absorber with high polarization dependence, showing potential for infrared sensing, detection, and imaging applications.
+      </p>
+    </div>
   </div>
-  <div class="news-content">
-    <h3>Coarse-to-Fine Reconstruction for Tunnel Propagation via Axial Recurrent Upsampling</h3>
-    <p class="news-meta">Published in <em>IEEE International Conference on Computational Electromagnetics</em>, 2026</p>
-    <p>
-      This paper presents a packetized axial recurrent upsampler for efficient 3-D coarse-to-fine field reconstruction in tunnels.
-    </p>
-  </div>
-</div>
 
+  <div class="news-card">
+    <div class="news-image">
+      <img src="/images/news-2026-ICCEM.jpg" alt="ICCEM paper">
+    </div>
+    <div class="news-content">
+      <div class="news-date">2026 · Accepted</div>
+      <h3>Coarse-to-Fine Reconstruction for Tunnel Propagation via Axial Recurrent Upsampling</h3>
+      <p class="news-meta"><em>IEEE International Conference on Computational Electromagnetics</em></p>
+      <p>
+        This paper presents a packetized axial recurrent upsampling framework for efficient three-dimensional coarse-to-fine electromagnetic field reconstruction in tunnel environments.
+      </p>
+    </div>
+  </div>
 
-<div class="news-card">
-  <div class="news-image">
-    <img src="/images/news-2025-RIE.jpg" alt="Results in Engineering paper">
+  <div class="news-card">
+    <div class="news-image">
+      <img src="/images/news-2025-RIE.jpg" alt="Results in Engineering paper">
+    </div>
+    <div class="news-content">
+      <div class="news-date">2025 · Published</div>
+      <h3>Electric Split-Ring Resonator with Tunable Electromagnetically Induced Transparency Filtering, Switching, Attenuating and Sensing Applications</h3>
+      <p class="news-meta"><em>Results in Engineering</em></p>
+      <p>
+        This work presents a tunable electric split-ring resonator platform for programmable terahertz filtering, switching, attenuation, and sensing, offering a compact route toward integrated THz photonic systems.
+      </p>
+    </div>
   </div>
-  <div class="news-content">
-    <h3>Electric Split-ring Resonator with Tunable Electromagnetically Induced Transparency Filtering, Switching, Attenuating and Sensing Applications</h3>
-    <p class="news-meta">Published in <em>Results in Engineering</em>, 2025</p>
-    <p>
-     This work presents a tunable electric split-ring resonator platform for programmable terahertz filtering, switching, attenuation, and sensing, offering a compact route toward integrated THz photonic systems.
-    </p>
-  </div>
+
 </div>
 
 # Honors and Awards
