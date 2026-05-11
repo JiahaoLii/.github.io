@@ -245,35 +245,65 @@ h1:before,
 
 /* ===== News card style ===== */
 
+.news-list {
+  margin-top: 1.6rem;
+}
+
 .news-card {
   display: flex;
-  align-items: flex-start;
+  align-items: stretch;
   gap: 2rem;
-  margin: 2rem 0 2.5rem 0;
-  padding-left: 1.2rem;
-  border-left: 6px solid #d8d8d8;
+  margin: 1.8rem 0;
+  padding: 1.2rem 1.2rem 1.2rem 1.4rem;
+  border-left: 5px solid #d8d8d8;
+  border-bottom: 1px solid #eeeeee;
+  background: #ffffff;
+  transition: box-shadow 0.2s ease, transform 0.2s ease, border-left-color 0.2s ease;
+}
+
+.news-card:hover {
+  border-left-color: #005a3c;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+  transform: translateY(-2px);
 }
 
 .news-image {
-  flex: 0 0 38%;
+  flex: 0 0 34%;
   max-width: 360px;
 }
 
 .news-image img {
   width: 100%;
-  height: auto;
+  height: 215px;
   display: block;
-  border-radius: 4px;
+  object-fit: cover;
+  border-radius: 6px;
 }
 
 .news-content {
   flex: 1;
   min-width: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.news-date {
+  display: inline-block;
+  align-self: flex-start;
+  margin-bottom: 0.55rem;
+  padding: 0.18rem 0.55rem;
+  font-size: 0.82rem;
+  line-height: 1.4;
+  color: #005a3c;
+  border: 1px solid #c8ded5;
+  border-radius: 999px;
+  background: #f4faf7;
 }
 
 .news-content h3 {
   margin-top: 0;
-  margin-bottom: 0.6rem;
+  margin-bottom: 0.55rem;
   font-size: 1.25rem;
   font-weight: 700;
   line-height: 1.35;
@@ -281,14 +311,35 @@ h1:before,
 }
 
 .news-meta {
+  margin-top: 0;
   margin-bottom: 0.7rem;
-  font-size: 0.95rem;
+  font-size: 0.98rem;
   color: #666666;
+  font-style: italic;
 }
 
 .news-content p {
+  margin-bottom: 0;
   font-size: 1rem;
-  line-height: 1.65;
+  line-height: 1.7;
+}
+
+/* Mobile layout */
+@media (max-width: 768px) {
+  .news-card {
+    flex-direction: column;
+    gap: 1rem;
+    padding: 1rem;
+  }
+
+  .news-image {
+    max-width: 100%;
+    flex: 0 0 auto;
+  }
+
+  .news-image img {
+    height: auto;
+  }
 }
 
 /* ===== Mobile layout ===== */
