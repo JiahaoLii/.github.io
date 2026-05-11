@@ -79,10 +79,10 @@ My current research focuses on Programmable photonic devices, opto-logic devices
 
 # Teaching Assistant Experience
 
-- **Digital Circuit Systems & Lab, Fall 2025
-- **Data Structures and Algorithms, Fall 2025
-- **Signals and Systems, Spring 2026
-- **Embedded Processors and Architecture, Spring 2026
+- **Digital Circuit Systems & Lab**, Fall 2025
+- **Data Structures and Algorithms**, Fall 2025
+- **Signals and Systems**, Spring 2026
+- **Embedded Processors and Architecture**, Spring 2026
 
   
 # Educations
