@@ -6,12 +6,26 @@ author_profile: false
 
 # Life
 
-This page will include selected moments from my academic life, travel, hobbies, and personal interests.
+## 2025
 
-## Photos
+**Chengdu World Games, 2025**
 
-Coming soon.
+<img src="/images/2025.jpg" alt="Chengdu World Games 2025" style="width:100%; max-width:760px; border-radius:8px;">
 
-## Notes
+## 2024
 
-Coming soon.
+**With my roommates, 2024**
+
+<img src="/images/2024.jpg" alt="With my roommates in 2024" style="width:100%; max-width:760px; border-radius:8px;">
+
+## 2023
+
+**Qingdao, 2023**
+
+<img src="/images/2023.jpg" alt="Qingdao 2023" style="width:100%; max-width:760px; border-radius:8px;">
+
+## 2022
+
+**Orientation training for freshmen, 2022**
+
+<img src="/images/2022.jpg" alt="Orientation training for freshmen in 2022" style="width:100%; max-width:760px; border-radius:8px;">
