@@ -45,6 +45,20 @@ My current research focuses on Programmable photonic devices, opto-logic devices
 
 <div class="news-card">
   <div class="news-image">
+    <img src="/images/news-2026-ICCEM.jpg" alt="ICCEM paper">
+  </div>
+  <div class="news-content">
+    <h3>Coarse-to-Fine Reconstruction for Tunnel Propagation via Axial Recurrent Upsampling</h3>
+    <p class="news-meta">Published in <em>IEEE International Conference on Computational Electromagnetics</em>, 2026</p>
+    <p>
+      This paper presents a packetized axial recurrent upsampler for efficient 3-D coarse-to-fine field reconstruction in tunnels.
+    </p>
+  </div>
+</div>
+
+
+<div class="news-card">
+  <div class="news-image">
     <img src="/images/news-2025-RIE.jpg" alt="Results in Engineering paper">
   </div>
   <div class="news-content">
