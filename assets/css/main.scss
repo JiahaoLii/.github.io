@@ -434,7 +434,7 @@ input,
 textarea,
 select,
 button {
-  font-family: "Times New Roman", Times, "Songti SC", "SimSun", serif !important;
+  font-family: Georgia, "Times New Roman", Times, "Songti SC", "SimSun", serif !important;
 }
 
 h1,
@@ -457,6 +457,13 @@ div,
 .site-title-sub,
 .news-content,
 .news-content h3,
-.news-content p {
-  font-family: "Times New Roman", Times, "Songti SC", "SimSun", serif !important;
+.news-content p,
+.pub-page,
+.pub-title,
+.pub-authors,
+.pub-venue,
+.research-text,
+.life-page,
+.life-caption {
+  font-family: Georgia, "Times New Roman", Times, "Songti SC", "SimSun", serif !important;
 }
