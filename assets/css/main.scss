@@ -107,3 +107,49 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* ===== Custom navigation style ===== */
+
+.masthead__inner-wrap {
+  max-width: none !important;
+  display: flex;
+  justify-content: center;
+  padding-top: 0.85em;
+  padding-bottom: 0.85em;
+}
+
+.masthead__menu {
+  width: auto;
+}
+
+.greedy-nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 0;
+  width: auto;
+}
+
+.greedy-nav .visible-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 3.2rem;
+  margin: 0 auto;
+}
+
+.greedy-nav .visible-links li {
+  display: block;
+}
+
+.greedy-nav a {
+  margin: 0;
+  padding: 0.35rem 0;
+  font-size: 1.25rem;
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+.masthead__menu-item--lg {
+  padding-right: 0;
+}
