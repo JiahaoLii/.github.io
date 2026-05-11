@@ -4,6 +4,8 @@ permalink: /publications/
 author_profile: false
 ---
 
+<div class="pub-list">
+
 # Publications
 
 <sup>†</sup> Co-first author. <sup>&#42;</sup> Corresponding author.
@@ -50,3 +52,5 @@ author_profile: false
   “Electric Split-Ring Resonator with Tunable Electromagnetically Induced Transparency Filtering, Switching, Attenuating and Sensing.”  
   *Results in Engineering*, Published.  
   *(JCR Q1, IF 7.9)*
+
+</div>
