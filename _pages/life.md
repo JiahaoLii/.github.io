@@ -70,7 +70,7 @@ author_profile: false
 
 <div class="life-page">
 
-# Life
+<h1>Life</h1>
 
 <p class="life-intro">
 Selected moments from my academic life and personal experiences.
