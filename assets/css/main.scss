@@ -110,14 +110,15 @@ h1:before,
 /* ===== Site title and navigation style ===== */
 
 .site-header-title {
+  width: 100%;
   text-align: center;
-  padding-top: 1.4rem;
-  padding-bottom: 0.75rem;
+  padding-top: 1.8rem;
+  padding-bottom: 1.1rem;
   border-bottom: 1px solid #eeeeee;
 }
 
 .site-title-main {
-  font-size: 2rem;
+  font-size: 2.35rem;
   font-weight: 700;
   line-height: 1.25;
   color: #333333;
@@ -125,11 +126,11 @@ h1:before,
 }
 
 .site-title-sub {
-  margin-top: 0.35rem;
-  font-size: 1rem;
+  margin-top: 0.45rem;
+  font-size: 1.15rem;
   font-weight: 400;
   color: #666666;
-  letter-spacing: 0.03em;
+  letter-spacing: 0.04em;
 }
 
 .masthead {
@@ -140,8 +141,8 @@ h1:before,
   max-width: none !important;
   display: flex;
   justify-content: center;
-  padding-top: 0.7em;
-  padding-bottom: 0.7em;
+  padding-top: 0.75em;
+  padding-bottom: 0.75em;
 }
 
 .masthead__menu {
@@ -159,7 +160,7 @@ h1:before,
   display: flex !important;
   justify-content: center;
   align-items: center;
-  gap: 2.2rem;
+  gap: 2.6rem;
   margin: 0 auto;
   padding-left: 0;
   list-style: none;
@@ -173,13 +174,46 @@ h1:before,
 .greedy-nav a {
   margin: 0;
   padding: 0.35rem 0;
-  font-size: 1.2rem;
+  font-size: 1.25rem;
   font-weight: 500;
   line-height: 1.4;
 }
 
 .masthead__menu-item--lg {
   padding-right: 0;
+}
+
+.greedy-nav button {
+  display: none !important;
+}
+
+.greedy-nav .hidden-links {
+  display: none !important;
+}
+
+/* Mobile layout */
+@media (max-width: 768px) {
+  .site-header-title {
+    padding-top: 1.1rem;
+    padding-bottom: 0.75rem;
+  }
+
+  .site-title-main {
+    font-size: 1.65rem;
+  }
+
+  .site-title-sub {
+    font-size: 0.95rem;
+  }
+
+  .greedy-nav .visible-links {
+    gap: 1.1rem;
+    flex-wrap: wrap;
+  }
+
+  .greedy-nav a {
+    font-size: 1rem;
+  }
 }
 
 /* Hide the greedy navigation collapse button */
