@@ -16,8 +16,8 @@ author_profile: false
   *(JCR Q1, IF 7.2)*
 
 - Yu-Sheng Lin<sup>†,&#42;</sup>, **Jiahao Li<sup>†</sup>**, Hao Qin, and Yunche Zhu,  
-  “Reconfigurable Terahertz Metamaterial Inverse Configuration Programming for Universal All-Optical Logic.”  
-  *Laser & Photonics Reviews*, Under Review.  
+  “Inverse Configuration Programming of MEMS Reconfigurable Terahertz Metamaterial for Universal Opto-Logic.”  
+  *Laser & Photonics Reviews*, In Revision.  
   *(JCR Q1, IF 10.0)*
 
 - Yu-Sheng Lin<sup>†,&#42;</sup> and **Jiahao Li<sup>†</sup>**,  
@@ -32,7 +32,7 @@ author_profile: false
 
 - **Jiahao Li**, Jingxin Xue, Keqi Ni, Kunyu Wu, Hao Qin<sup>&#42;</sup>, Xinyue Zhang, and Xingqi Zhang,  
   “Spatio-Sequential Recurrent Network for 3-D Tunnel Propagation Modeling.”  
-  *IEEE Antennas and Wireless Propagation Letters*, Under Review.  
+  *IEEE Antennas and Wireless Propagation Letters*, In Revision.  
   *(JCR Q1, IF 4.8)*
 
 - Jingxin Xue, **Jiahao Li**, Hao Qin<sup>&#42;</sup>, Xinyue Zhang, and Xingqi Zhang,  
