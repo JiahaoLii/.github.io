@@ -33,7 +33,7 @@ My current research focuses on Programmable photonic devices, opto-logic devices
     <img src="/images/news-2026-RIE.jpg" alt="Results in Engineering paper">
   </div>
   <div class="news-content">
-    <h3>Electromechanically perfect metamaterial absorber with ultrahighly polarization dependence on infrared sensing and imaging characteristics</h3>
+    <h3>Electromechanically Perfect Metamaterial Absorber with Ultrahighly Polarization Dependence on Infrared Sensing and Imaging Characteristics</h3>
     <p class="news-meta">Published in <em>Results in Engineering</em>, 2026</p>
     <p>
       We present a design of an electromechanically perfect meta-absorber that shows perfect absorptivity and exhibits great potential in sensing, detection and imaging applications in the IR wavelength range.
@@ -41,6 +41,18 @@ My current research focuses on Programmable photonic devices, opto-logic devices
   </div>
 </div>
 
+<div class="news-card">
+  <div class="news-image">
+    <img src="/images/news-2025-RIE.jpg" alt="Results in Engineering paper">
+  </div>
+  <div class="news-content">
+    <h3>Electric Split-ring Resonator with Tunable Electromagnetically Induced Transparency Filtering, Switching, Attenuating and Sensing Applications</h3>
+    <p class="news-meta">Published in <em>Results in Engineering</em>, 2025</p>
+    <p>
+     This work presents a tunable electric split-ring resonator platform for programmable terahertz filtering, switching, attenuation, and sensing, offering a compact route toward integrated THz photonic systems.
+    </p>
+  </div>
+</div>
 
 # Educations
 - *2023.09 - 2027.06 (now)*, B.Eng. in Electronic Information Engineering, School of Electronic Information, Sichuan University, Chengdu, China.
