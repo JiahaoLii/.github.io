@@ -22,7 +22,13 @@ author_profile: false
 }
 
 .page__content li {
-  margin-bottom: 1.25rem;
+  margin-bottom: 1.35rem;
+  padding-bottom: 1.25rem;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.page__content ul {
+  padding-left: 1.3rem;
 }
 </style>
 
