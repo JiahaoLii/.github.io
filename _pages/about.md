@@ -11,7 +11,7 @@ redirect_from:
 
 I am an undergraduate student in Electronic Information Engineering at Sichuan University. My research interests lie at the intersection of photonics and artificial intelligence.
 
-My current research focuses on Programmable photonic devices, opto-logic devices, and AI-assisted electromagnetic field modeling. I am also interested in silicon photonics, optical neural networks, and AI-assisted inverse design.
+My current research focuses on Programmable photonic devices, opto-logic devices, and AI for science. I am planning to focus on silicon photonics and optical computing in the future.
 You can [click here to download my CV](/files/CV_JiahaoLi.pdf).
 
 
