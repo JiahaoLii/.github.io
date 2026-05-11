@@ -11,8 +11,12 @@ author_profile: false
 }
 
 .pub-page h1 {
-  font-size: 2.2rem;
-  margin-bottom: 0.8rem;
+  font-size: 1.85rem;
+  line-height: 1.35;
+  margin-top: 0;
+  margin-bottom: 1.15rem;
+  font-weight: 700;
+  color: #333333;
 }
 
 .pub-note {
