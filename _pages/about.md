@@ -62,7 +62,7 @@ My current research focuses on Programmable photonic devices, opto-logic devices
 - **Outstanding Student of Sichuan University**
 
 # Educations
-- *2023.09 - 2027.06 (now)*, B.Eng. in Electronic Information Engineering, School of Electronic Information, Sichuan University, Chengdu, China.
+- *2023.09 - 2027.06 (now)*, B.Eng. in ECE, School of Electronic Information, Sichuan University, Chengdu, China.
 - *2020.09 - 2023.07*, High School Diploma, The High School Affiliated to Peking University, Beijing, China.
 
 
