@@ -369,3 +369,38 @@ h1:before,
   padding: 0;
   box-shadow: none;
 }
+
+/* ===== Global font style ===== */
+
+html,
+body,
+input,
+textarea,
+select,
+button {
+  font-family: "Times New Roman", Times, "Songti SC", "SimSun", serif !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+li,
+a,
+span,
+div,
+.page__content,
+.archive__item-title,
+.author__name,
+.author__bio,
+.greedy-nav a,
+.site-title-main,
+.site-title-sub,
+.news-content,
+.news-content h3,
+.news-content p {
+  font-family: "Times New Roman", Times, "Songti SC", "SimSun", serif !important;
+}
