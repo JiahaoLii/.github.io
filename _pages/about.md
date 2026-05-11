@@ -23,7 +23,20 @@ My current research focuses on Programmable photonic devices, opto-logic devices
     <h3>Electrostatically Programmable Terahertz Metadevice for Parallel Opto-Logic Functions</h3>
     <p class="news-meta">Published in <em>Advanced Optical Materials</em>, 2026</p>
     <p>
-      Our work on an electrostatically programmable terahertz metadevice for parallel opto-logic functions has been published in <em>Advanced Optical Materials</em>. This work demonstrates reconfigurable terahertz spectral responses and programmable opto-logic operation based on MEMS-tunable metamaterials.
+      My work on an electrostatically programmable terahertz metadevice for parallel opto-logic functions has been published in <em>Advanced Optical Materials</em>. This work demonstrates reconfigurable terahertz spectral responses and programmable opto-logic operation based on MEMS-tunable metamaterials.
+    </p>
+  </div>
+</div>
+
+<div class="news-card">
+  <div class="news-image">
+    <img src="/images/news-2026-RIE.jpg" alt="Results in Engineering paper">
+  </div>
+  <div class="news-content">
+    <h3>Electromechanically perfect metamaterial absorber with ultrahighly polarization dependence on infrared sensing and imaging characteristics</h3>
+    <p class="news-meta">Published in <em>Results in Engineering</em>, 2026</p>
+    <p>
+      We present a design of an electromechanically perfect meta-absorber that shows perfect absorptivity and exhibits great potential in sensing, detection and imaging applications in the IR wavelength range.
     </p>
   </div>
 </div>
