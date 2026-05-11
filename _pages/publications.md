@@ -5,76 +5,200 @@ author_profile: false
 ---
 
 <style>
-.page__content {
+.pub-page {
   font-size: 1.08rem;
-  line-height: 1.75;
+  line-height: 1.7;
 }
 
-.page__content h1 {
-  font-size: 2.1rem;
+.pub-page h1 {
+  font-size: 2.2rem;
+  margin-bottom: 0.8rem;
+}
+
+.pub-note {
+  margin-bottom: 2rem;
+  color: #666666;
+  font-size: 1rem;
+}
+
+.pub-year {
+  margin-top: 2.2rem;
   margin-bottom: 1.2rem;
+  font-size: 1.65rem;
+  font-weight: 700;
+  color: #005a3c;
+  border-bottom: 2px solid #e5e5e5;
+  padding-bottom: 0.35rem;
 }
 
-.page__content h2 {
-  font-size: 1.6rem;
-  margin-top: 2rem;
-  margin-bottom: 1rem;
+.pub-card {
+  margin: 1.3rem 0;
+  padding: 1.25rem 1.4rem;
+  border-left: 5px solid #d8d8d8;
+  border-bottom: 1px solid #eeeeee;
+  background: #ffffff;
+  transition: box-shadow 0.2s ease, transform 0.2s ease, border-left-color 0.2s ease;
 }
 
-.page__content li {
-  margin-bottom: 1.35rem;
-  padding-bottom: 1.25rem;
-  border-bottom: 1px solid #e5e5e5;
+.pub-card:hover {
+  border-left-color: #005a3c;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+  transform: translateY(-2px);
 }
 
-.page__content ul {
-  padding-left: 1.3rem;
+.pub-title {
+  margin: 0 0 0.55rem 0;
+  font-size: 1.18rem;
+  font-weight: 700;
+  line-height: 1.45;
+  color: #222222;
+}
+
+.pub-authors {
+  margin-bottom: 0.45rem;
+  color: #333333;
+}
+
+.pub-venue {
+  margin-bottom: 0.65rem;
+  color: #444444;
+}
+
+.pub-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+}
+
+.pub-tag {
+  display: inline-block;
+  padding: 0.16rem 0.55rem;
+  font-size: 0.82rem;
+  line-height: 1.4;
+  border-radius: 999px;
+  border: 1px solid #d7e7df;
+  background: #f4faf7;
+  color: #005a3c;
+}
+
+.pub-status {
+  border-color: #e0e0e0;
+  background: #f7f7f7;
+  color: #444444;
+}
+
+@media (max-width: 768px) {
+  .pub-page {
+    font-size: 1rem;
+  }
+
+  .pub-card {
+    padding: 1rem;
+  }
+
+  .pub-title {
+    font-size: 1.08rem;
+  }
 }
 </style>
 
-# Publications
+<div class="pub-page">
 
-<sup>†</sup> Co-first author. <sup>&#42;</sup> Corresponding author.
+<h1>Publications</h1>
 
-## 2026
+<p class="pub-note">
+  <sup>†</sup> Co-first author. <sup>&#42;</sup> Corresponding author.
+</p>
 
-- Yu-Sheng Lin<sup>†,&#42;</sup>, <strong>Jiahao Li<sup>†</sup></strong>, and Yunche Zhu,  
-  “Electrostatically Programmable Terahertz Metadevice for Parallel Opto-Logic Functions.”  
-  *Advanced Optical Materials*, Published.  
-  *(JCR Q1, IF 7.2)*
+<h2 class="pub-year">2026</h2>
 
-- Yu-Sheng Lin<sup>†,&#42;</sup>, <strong>Jiahao Li<sup>†</sup></strong>, Hao Qin, and Yunche Zhu,  
-  “Inverse Configuration Programming of MEMS Reconfigurable Terahertz Metamaterial for Universal Opto-Logic.”  
-  *Laser & Photonics Reviews*, In Revision.  
-  *(JCR Q1, IF 10.0)*
+<div class="pub-card">
+  <div class="pub-title">Electrostatically Programmable Terahertz Metadevice for Parallel Opto-Logic Functions</div>
+  <div class="pub-authors">Yu-Sheng Lin<sup>†,&#42;</sup>, <strong>Jiahao Li<sup>†</sup></strong>, and Yunche Zhu</div>
+  <div class="pub-venue"><em>Advanced Optical Materials</em></div>
+  <div class="pub-tags">
+    <span class="pub-tag pub-status">Published</span>
+    <span class="pub-tag">JCR Q1</span>
+    <span class="pub-tag">IF 7.2</span>
+  </div>
+</div>
 
-- Yu-Sheng Lin<sup>†,&#42;</sup> and <strong>Jiahao Li<sup>†</sup></strong>,  
-  “MEMS Programmable Metasurface Tag with Updatable Terahertz Spectral Codebooks for High-Accuracy Identification and Authentication.”  
-  *Advanced Functional Materials*, Under Review.  
-  *(JCR Q1, IF 19.0)*
+<div class="pub-card">
+  <div class="pub-title">Inverse Configuration Programming of MEMS Reconfigurable Terahertz Metamaterial for Universal Opto-Logic</div>
+  <div class="pub-authors">Yu-Sheng Lin<sup>†,&#42;</sup>, <strong>Jiahao Li<sup>†</sup></strong>, Hao Qin, and Yunche Zhu</div>
+  <div class="pub-venue"><em>Laser &amp; Photonics Reviews</em></div>
+  <div class="pub-tags">
+    <span class="pub-tag pub-status">In Revision</span>
+    <span class="pub-tag">JCR Q1</span>
+    <span class="pub-tag">IF 10.0</span>
+  </div>
+</div>
 
-- Yu-Sheng Lin<sup>&#42;</sup>, Yuxuan Xia, <strong>Jiahao Li</strong>, and Yunche Zhu,  
-  “Electromechanically Perfect Metamaterial Absorber with Ultrahigh Polarization Dependence on Infrared Sensing and Imaging Characteristics.”  
-  *Results in Engineering*, Published.  
-  *(JCR Q1, IF 7.9)*
+<div class="pub-card">
+  <div class="pub-title">MEMS Programmable Metasurface Tag with Updatable Terahertz Spectral Codebooks for High-Accuracy Identification and Authentication</div>
+  <div class="pub-authors">Yu-Sheng Lin<sup>†,&#42;</sup> and <strong>Jiahao Li<sup>†</sup></strong></div>
+  <div class="pub-venue"><em>Advanced Functional Materials</em></div>
+  <div class="pub-tags">
+    <span class="pub-tag pub-status">Under Review</span>
+    <span class="pub-tag">JCR Q1</span>
+    <span class="pub-tag">IF 19.0</span>
+  </div>
+</div>
 
-- <strong>Jiahao Li</strong>, Jingxin Xue, Keqi Ni, Kunyu Wu, Hao Qin<sup>&#42;</sup>, Xinyue Zhang, and Xingqi Zhang,  
-  “Spatio-Sequential Recurrent Network for 3-D Tunnel Propagation Modeling.”  
-  *IEEE Antennas and Wireless Propagation Letters*, In Revision.  
-  *(JCR Q1, IF 4.8)*
+<div class="pub-card">
+  <div class="pub-title">Electromechanically Perfect Metamaterial Absorber with Ultrahigh Polarization Dependence on Infrared Sensing and Imaging Characteristics</div>
+  <div class="pub-authors">Yu-Sheng Lin<sup>&#42;</sup>, Yuxuan Xia, <strong>Jiahao Li</strong>, and Yunche Zhu</div>
+  <div class="pub-venue"><em>Results in Engineering</em></div>
+  <div class="pub-tags">
+    <span class="pub-tag pub-status">Published</span>
+    <span class="pub-tag">JCR Q1</span>
+    <span class="pub-tag">IF 7.9</span>
+  </div>
+</div>
 
-- Jingxin Xue, <strong>Jiahao Li</strong>, Hao Qin<sup>&#42;</sup>, Xinyue Zhang, and Xingqi Zhang,  
-  “A Generalizable Physics-Inspired Deep Learning Framework for 3-D Electromagnetic Field Reconstruction.”  
-  *IEEE Transactions on Antennas and Propagation*, Under Review.  
-  *(JCR Q1, IF 5.8)*
+<div class="pub-card">
+  <div class="pub-title">Spatio-Sequential Recurrent Network for 3-D Tunnel Propagation Modeling</div>
+  <div class="pub-authors"><strong>Jiahao Li</strong>, Jingxin Xue, Keqi Ni, Kunyu Wu, Hao Qin<sup>&#42;</sup>, Xinyue Zhang, and Xingqi Zhang</div>
+  <div class="pub-venue"><em>IEEE Antennas and Wireless Propagation Letters</em></div>
+  <div class="pub-tags">
+    <span class="pub-tag pub-status">In Revision</span>
+    <span class="pub-tag">JCR Q1</span>
+    <span class="pub-tag">IF 4.8</span>
+  </div>
+</div>
 
-- <strong>Jiahao Li</strong>, Jingxin Xue, Yongyuan Hu, Yuqi Ouyang, Hao Qin<sup>&#42;</sup>, Xinyue Zhang, and Xingqi Zhang,  
-  “Coarse-to-Fine Reconstruction for Tunnel Propagation via Axial Recurrent Upsampling.”  
-  *IEEE International Conference on Computational Electromagnetics*, Accepted.
+<div class="pub-card">
+  <div class="pub-title">A Generalizable Physics-Inspired Deep Learning Framework for 3-D Electromagnetic Field Reconstruction</div>
+  <div class="pub-authors">Jingxin Xue, <strong>Jiahao Li</strong>, Hao Qin<sup>&#42;</sup>, Xinyue Zhang, and Xingqi Zhang</div>
+  <div class="pub-venue"><em>IEEE Transactions on Antennas and Propagation</em></div>
+  <div class="pub-tags">
+    <span class="pub-tag pub-status">Under Review</span>
+    <span class="pub-tag">JCR Q1</span>
+    <span class="pub-tag">IF 5.8</span>
+  </div>
+</div>
 
-## 2025
+<div class="pub-card">
+  <div class="pub-title">Coarse-to-Fine Reconstruction for Tunnel Propagation via Axial Recurrent Upsampling</div>
+  <div class="pub-authors"><strong>Jiahao Li</strong>, Jingxin Xue, Yongyuan Hu, Yuqi Ouyang, Hao Qin<sup>&#42;</sup>, Xinyue Zhang, and Xingqi Zhang</div>
+  <div class="pub-venue"><em>IEEE International Conference on Computational Electromagnetics</em></div>
+  <div class="pub-tags">
+    <span class="pub-tag pub-status">Accepted</span>
+    <span class="pub-tag">Conference Paper</span>
+  </div>
+</div>
 
-- Yu-Sheng Lin<sup>†,&#42;</sup>, <strong>Jiahao Li<sup>†</sup></strong>, Yunche Zhu, and Daoye Zheng,  
-  “Electric Split-Ring Resonator with Tunable Electromagnetically Induced Transparency Filtering, Switching, Attenuating and Sensing.”  
-  *Results in Engineering*, Published.  
-  *(JCR Q1, IF 7.9)*
+<h2 class="pub-year">2025</h2>
+
+<div class="pub-card">
+  <div class="pub-title">Electric Split-Ring Resonator with Tunable Electromagnetically Induced Transparency Filtering, Switching, Attenuating and Sensing</div>
+  <div class="pub-authors">Yu-Sheng Lin<sup>†,&#42;</sup>, <strong>Jiahao Li<sup>†</sup></strong>, Yunche Zhu, and Daoye Zheng</div>
+  <div class="pub-venue"><em>Results in Engineering</em></div>
+  <div class="pub-tags">
+    <span class="pub-tag pub-status">Published</span>
+    <span class="pub-tag">JCR Q1</span>
+    <span class="pub-tag">IF 7.9</span>
+  </div>
+</div>
+
+</div>
