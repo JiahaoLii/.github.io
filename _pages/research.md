@@ -21,8 +21,9 @@ author_profile: false
 
 .research-image img {
   width: 100%;
-  height: auto;
+  height: 200px;
   display: block;
+  object-fit: cover;
   border-radius: 6px;
 }
 
