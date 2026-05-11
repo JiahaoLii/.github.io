@@ -119,27 +119,29 @@ h1:before, .anchor:before {
 }
 
 .masthead__menu {
-  width: auto;
+  width: 100%;
 }
 
 .greedy-nav {
   display: flex;
   justify-content: center;
   align-items: center;
-  min-width: 0;
-  width: auto;
+  width: 100%;
 }
 
 .greedy-nav .visible-links {
-  display: flex;
+  display: flex !important;
   justify-content: center;
   align-items: center;
-  gap: 3.2rem;
+  gap: 2.8rem;
   margin: 0 auto;
+  padding-left: 0;
+  list-style: none;
+  overflow: visible;
 }
 
 .greedy-nav .visible-links li {
-  display: block;
+  display: block !important;
 }
 
 .greedy-nav a {
@@ -152,4 +154,13 @@ h1:before, .anchor:before {
 
 .masthead__menu-item--lg {
   padding-right: 0;
+}
+
+/* Hide the greedy navigation collapse button */
+.greedy-nav button {
+  display: none !important;
+}
+
+.greedy-nav .hidden-links {
+  display: none !important;
 }
