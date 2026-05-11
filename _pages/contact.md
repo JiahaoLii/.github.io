@@ -20,3 +20,4 @@ School of Electronic Information
 Sichuan University
 
 **Email:** lijiahao2023@stu.scu.edu.cn
+**Phone/Wechat:** 13611226131
