@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: false
 ---
 
-<div class="pub-list">
+<div class="pub-list" markdown="1">
 
 # Publications
 
