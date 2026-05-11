@@ -13,12 +13,24 @@ My current research focuses on Programmable photonic devices, opto-logic devices
 
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# News
+
+<div class="news-card">
+  <div class="news-image">
+    <img src="/images/news-2026-aom.jpg" alt="Advanced Optical Materials paper">
+  </div>
+
+  <div class="news-content">
+    <h3>Electrostatically Programmable Terahertz Metadevice for Parallel Opto-Logic Functions</h3>
+    <p class="news-meta">Published in <em>Advanced Optical Materials</em>, 2026</p>
+    <p>
+      Our work on an electrostatically programmable terahertz metadevice for parallel opto-logic functions has been published in <em>Advanced Optical Materials</em>. This work demonstrates reconfigurable terahertz spectral responses and programmable opto-logic operation based on MEMS-tunable metamaterials.
+    </p>
+  </div>
+</div>
 
 
-# 📖 Educations
+# Educations
 - *2023.09 - 2027.06 (now)*, B.Eng. in Electronic Information Engineering, School of Electronic Information, Sichuan University, Chengdu, China.
 - *2020.09 - 2023.07*, High School Diploma, The High School Affiliated to Peking University, Beijing, China.
 
