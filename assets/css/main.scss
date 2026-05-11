@@ -351,3 +351,21 @@ h1:before,
 .pub-list strong {
   font-weight: 700;
 }
+
+/* ===== Sidebar avatar style ===== */
+
+.author__avatar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.author__avatar img.author__avatar {
+  width: 240px !important;
+  height: 240px !important;
+  object-fit: contain !important;
+  border-radius: 0 !important;
+  background: #ffffff;
+  padding: 0;
+  box-shadow: none;
+}
