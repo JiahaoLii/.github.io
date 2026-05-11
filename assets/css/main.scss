@@ -225,17 +225,22 @@ h1:before,
   display: none !important;
 }
 
-/* Active navigation underline */
-.greedy-nav .masthead__menu-item a:hover {
-  color: #333333;
-}
+/* ===== Active navigation underline ===== */
 
 .greedy-nav .masthead__menu-item a {
   border-bottom: 3px solid transparent;
+  padding-bottom: 0.25rem;
+  transition: color 0.2s ease, border-bottom-color 0.2s ease;
+}
+
+.greedy-nav .masthead__menu-item.active a {
+  color: #005a3c !important;
+  border-bottom: 3px solid #005a3c;
 }
 
 .greedy-nav .masthead__menu-item a:hover {
-  border-bottom: 3px solid #999999;
+  color: #005a3c !important;
+  border-bottom: 3px solid #005a3c;
 }
 
 /* ===== News card style ===== */
