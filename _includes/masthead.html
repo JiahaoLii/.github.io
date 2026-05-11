@@ -13,8 +13,9 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
+          {% assign current_url = page.url | replace: "index.html", "" %}
           {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item{% if forloop.first %} masthead__menu-item--lg masthead__menu-home-item{% endif %}">
+            <li class="masthead__menu-item{% if forloop.first %} masthead__menu-item--lg masthead__menu-home-item{% endif %}{% if current_url == link.url %} active{% endif %}">
               <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
             </li>
           {% endfor %}
