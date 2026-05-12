@@ -324,6 +324,39 @@ h1:before,
   line-height: 1.7;
 }
 
+/* Remove link underline inside clickable news cards */
+
+.news-card,
+.news-card:visited,
+.news-card:hover,
+.news-card:active {
+  text-decoration: none !important;
+  color: inherit !important;
+  border-bottom: none !important;
+}
+
+.news-card *,
+.news-card *:hover {
+  text-decoration: none !important;
+  border-bottom: none !important;
+}
+
+.news-card .news-content h3 {
+  color: #005a3c !important;
+}
+
+.news-card .news-meta {
+  color: #666666 !important;
+}
+
+.news-card .news-content p {
+  color: #444444 !important;
+}
+
+.news-card .news-date {
+  color: #005a3c !important;
+}
+
 /* Mobile layout */
 @media (max-width: 768px) {
   .news-card {
