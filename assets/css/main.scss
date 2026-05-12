@@ -324,6 +324,15 @@ h1:before,
   line-height: 1.7;
 }
 
+/* Custom focus style for clickable news cards */
+
+.news-card:focus,
+.news-card:focus-visible {
+  outline: none !important;
+  border-left-color: #005a3c;
+  box-shadow: 0 0 0 2px rgba(0, 90, 60, 0.18), 0 8px 24px rgba(0, 0, 0, 0.06);
+}
+
 /* Remove link underline inside clickable news cards */
 
 .news-card,
