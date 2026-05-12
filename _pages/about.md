@@ -19,25 +19,21 @@ You can [click here to download my CV](/files/CV_JiahaoLi.pdf).
 
 <div class="news-list">
 
-  <div class="news-card">
+  <a class="news-card" href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/adom.71178" target="_blank" rel="noopener noreferrer">
     <div class="news-image">
       <img src="/images/news-2026-aom.jpg" alt="Advanced Optical Materials paper">
     </div>
     <div class="news-content">
       <div class="news-date">2026 · Published</div>
-      <h3>
-  <a href="[论文链接](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adom.71178)" target="_blank">
-    Electrostatically Programmable Terahertz Metadevice for Parallel Opto-Logic Functions
-  </a>
-</h3>
+      <h3>Electrostatically Programmable Terahertz Metadevice for Parallel Opto-Logic Functions</h3>
       <p class="news-meta"><em>Advanced Optical Materials</em></p>
       <p>
         My work on an electrostatically programmable terahertz metadevice for parallel opto-logic functions has been published in <em>Advanced Optical Materials</em>. This work demonstrates reconfigurable terahertz spectral responses and programmable opto-logic operation based on MEMS-tunable metamaterials.
       </p>
     </div>
-  </div>
+  </a>
 
-  <div class="news-card">
+  <a class="news-card" href="https://doi.org/10.1016/j.rineng.2026.110096" target="_self">
     <div class="news-image">
       <img src="/images/news-2026-RIE.jpg" alt="Results in Engineering paper">
     </div>
@@ -49,9 +45,9 @@ You can [click here to download my CV](/files/CV_JiahaoLi.pdf).
         This work presents an electromechanically tunable perfect metamaterial absorber with high polarization dependence, showing potential for infrared sensing, detection, and imaging applications.
       </p>
     </div>
-  </div>
+  </a>
 
-  <div class="news-card">
+  <a class="news-card" href="/publications/" target="_self">
     <div class="news-image">
       <img src="/images/news-2026-ICCEM.jpg" alt="ICCEM paper">
     </div>
@@ -63,9 +59,9 @@ You can [click here to download my CV](/files/CV_JiahaoLi.pdf).
         This paper presents a packetized axial recurrent upsampling framework for efficient three-dimensional coarse-to-fine electromagnetic field reconstruction in tunnel environments.
       </p>
     </div>
-  </div>
+  </a>
 
-  <div class="news-card">
+  <a class="news-card" href="https://doi.org/10.1016/j.rineng.2025.107700" target="_self">
     <div class="news-image">
       <img src="/images/news-2025-RIE.jpg" alt="Results in Engineering paper">
     </div>
@@ -77,10 +73,9 @@ You can [click here to download my CV](/files/CV_JiahaoLi.pdf).
         This work presents a tunable electric split-ring resonator platform for programmable terahertz filtering, switching, attenuation, and sensing, offering a compact route toward integrated THz photonic systems.
       </p>
     </div>
-  </div>
+  </a>
 
 </div>
-
 # Honors and Awards
 
 - **Academic Star**, Top 1%
