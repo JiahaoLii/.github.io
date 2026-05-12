@@ -25,7 +25,11 @@ You can [click here to download my CV](/files/CV_JiahaoLi.pdf).
     </div>
     <div class="news-content">
       <div class="news-date">2026 · Published</div>
-      <h3>Electrostatically Programmable Terahertz Metadevice for Parallel Opto-Logic Functions</h3>
+      <h3>
+  <a href="[论文链接](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adom.71178)" target="_blank">
+    Electrostatically Programmable Terahertz Metadevice for Parallel Opto-Logic Functions
+  </a>
+</h3>
       <p class="news-meta"><em>Advanced Optical Materials</em></p>
       <p>
         My work on an electrostatically programmable terahertz metadevice for parallel opto-logic functions has been published in <em>Advanced Optical Materials</em>. This work demonstrates reconfigurable terahertz spectral responses and programmable opto-logic operation based on MEMS-tunable metamaterials.
