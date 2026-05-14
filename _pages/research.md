@@ -167,13 +167,12 @@ My research lies at the intersection of photonics and artificial intelligence, w
 
 <div class="research-card">
   <div class="research-image">
-    <img class="contain-img" src="/images/research-inverse.jpg" alt="Inverse design for metasurfaces">
+    <img class="contain-img" src="/images/research-inverse.jpg" alt="Inverse design for Photonic Devices">
   </div>
   <div class="research-text">
     <h2>Inverse Design for Metasurfaces</h2>
     <div class="research-tags">
       <span class="research-tag">Inverse Design</span>
-      <span class="research-tag">Metasurfaces</span>
       <span class="research-tag">Optimization</span>
     </div>
     <p>
@@ -190,7 +189,6 @@ My research lies at the intersection of photonics and artificial intelligence, w
     <h2>AI-Assisted Electromagnetic Field Modeling</h2>
     <div class="research-tags">
       <span class="research-tag">AI for Science</span>
-      <span class="research-tag">Field Prediction</span>
       <span class="research-tag">Physics-Inspired Learning</span>
     </div>
     <p>
