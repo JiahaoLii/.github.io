@@ -167,10 +167,10 @@ My research lies at the intersection of photonics and artificial intelligence, w
 
 <div class="research-card">
   <div class="research-image">
-    <img class="contain-img" src="/images/research-inverse.jpg" alt="Inverse design for Photonic Devices">
+    <img class="contain-img" src="/images/research-inverse.jpg" alt="Inverse Design for Metasurfaces">
   </div>
   <div class="research-text">
-    <h2>Inverse Design for Metasurfaces</h2>
+    <h2>Inverse Design for Photonic Devices</h2>
     <div class="research-tags">
       <span class="research-tag">Inverse Design</span>
       <span class="research-tag">Optimization</span>
