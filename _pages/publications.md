@@ -80,13 +80,7 @@ author_profile: false
   font-size: 0.82rem;
   line-height: 1.4;
   border-radius: 999px;
-  border: 1px solid #d7e7df;
-  background: #f4faf7;
-  color: #005a3c;
-}
-
-.pub-status {
-  border-color: #e0e0e0;
+  border: 1px solid #e0e0e0;
   background: #f7f7f7;
   color: #444444;
 }
@@ -121,9 +115,7 @@ author_profile: false
   <div class="pub-authors">Yu-Sheng Lin<sup>†,&#42;</sup>, <strong>Jiahao Li<sup>†</sup></strong>, and Yunche Zhu</div>
   <div class="pub-venue"><em>Advanced Optical Materials</em></div>
   <div class="pub-tags">
-    <span class="pub-tag pub-status">Published</span>
-    <span class="pub-tag">JCR Q1</span>
-    <span class="pub-tag">IF 7.2</span>
+    <span class="pub-tag">Published</span>
   </div>
 </div>
 
@@ -132,9 +124,7 @@ author_profile: false
   <div class="pub-authors">Yu-Sheng Lin<sup>†,&#42;</sup>, <strong>Jiahao Li<sup>†</sup></strong>, Hao Qin, and Yunche Zhu</div>
   <div class="pub-venue"><em>Laser &amp; Photonics Reviews</em></div>
   <div class="pub-tags">
-    <span class="pub-tag pub-status">In Revision</span>
-    <span class="pub-tag">JCR Q1</span>
-    <span class="pub-tag">IF 10.0</span>
+    <span class="pub-tag">In Revision</span>
   </div>
 </div>
 
@@ -143,9 +133,7 @@ author_profile: false
   <div class="pub-authors">Yu-Sheng Lin<sup>†,&#42;</sup> and <strong>Jiahao Li<sup>†</sup></strong></div>
   <div class="pub-venue"><em>Advanced Functional Materials</em></div>
   <div class="pub-tags">
-    <span class="pub-tag pub-status">Under Review</span>
-    <span class="pub-tag">JCR Q1</span>
-    <span class="pub-tag">IF 19.0</span>
+    <span class="pub-tag">Under Review</span>
   </div>
 </div>
 
@@ -154,9 +142,7 @@ author_profile: false
   <div class="pub-authors">Yu-Sheng Lin<sup>&#42;</sup>, Yuxuan Xia, <strong>Jiahao Li</strong>, and Yunche Zhu</div>
   <div class="pub-venue"><em>Results in Engineering</em></div>
   <div class="pub-tags">
-    <span class="pub-tag pub-status">Published</span>
-    <span class="pub-tag">JCR Q1</span>
-    <span class="pub-tag">IF 7.9</span>
+    <span class="pub-tag">Published</span>
   </div>
 </div>
 
@@ -165,9 +151,7 @@ author_profile: false
   <div class="pub-authors"><strong>Jiahao Li</strong>, Jingxin Xue, Keqi Ni, Kunyu Wu, Hao Qin<sup>&#42;</sup>, Xinyue Zhang, and Xingqi Zhang</div>
   <div class="pub-venue"><em>IEEE Antennas and Wireless Propagation Letters</em></div>
   <div class="pub-tags">
-    <span class="pub-tag pub-status">In Revision</span>
-    <span class="pub-tag">JCR Q1</span>
-    <span class="pub-tag">IF 4.8</span>
+    <span class="pub-tag">In Revision</span>
   </div>
 </div>
 
@@ -176,9 +160,7 @@ author_profile: false
   <div class="pub-authors">Jingxin Xue, <strong>Jiahao Li</strong>, Hao Qin<sup>&#42;</sup>, Xinyue Zhang, and Xingqi Zhang</div>
   <div class="pub-venue"><em>IEEE Transactions on Antennas and Propagation</em></div>
   <div class="pub-tags">
-    <span class="pub-tag pub-status">Under Review</span>
-    <span class="pub-tag">JCR Q1</span>
-    <span class="pub-tag">IF 5.8</span>
+    <span class="pub-tag">Under Review</span>
   </div>
 </div>
 
@@ -187,7 +169,7 @@ author_profile: false
   <div class="pub-authors"><strong>Jiahao Li</strong>, Jingxin Xue, Yongyuan Hu, Yuqi Ouyang, Hao Qin<sup>&#42;</sup>, Xinyue Zhang, and Xingqi Zhang</div>
   <div class="pub-venue"><em>IEEE International Conference on Computational Electromagnetics</em></div>
   <div class="pub-tags">
-    <span class="pub-tag pub-status">Accepted</span>
+    <span class="pub-tag">Accepted</span>
     <span class="pub-tag">Conference Paper</span>
   </div>
 </div>
@@ -199,9 +181,7 @@ author_profile: false
   <div class="pub-authors">Yu-Sheng Lin<sup>†,&#42;</sup>, <strong>Jiahao Li<sup>†</sup></strong>, Yunche Zhu, and Daoye Zheng</div>
   <div class="pub-venue"><em>Results in Engineering</em></div>
   <div class="pub-tags">
-    <span class="pub-tag pub-status">Published</span>
-    <span class="pub-tag">JCR Q1</span>
-    <span class="pub-tag">IF 7.9</span>
+    <span class="pub-tag">Published</span>
   </div>
 </div>
 
