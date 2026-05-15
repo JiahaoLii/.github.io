@@ -120,6 +120,15 @@ author_profile: false
 </div>
 
 <div class="pub-card">
+  <div class="pub-title">Spatio-Sequential Recurrent Network for 3-D Tunnel Propagation Modeling</div>
+  <div class="pub-authors"><strong>Jiahao Li</strong>, Jingxin Xue, Keqi Ni, Kunyu Wu, Hao Qin<sup>&#42;</sup>, Xinyue Zhang, and Xingqi Zhang</div>
+  <div class="pub-venue"><em>IEEE Antennas and Wireless Propagation Letters</em></div>
+  <div class="pub-tags">
+    <span class="pub-tag">In Revision</span>
+  </div>
+</div>
+
+<div class="pub-card">
   <div class="pub-title">Inverse Configuration Programming of MEMS Reconfigurable Terahertz Metamaterial for Universal Opto-Logic</div>
   <div class="pub-authors">Yu-Sheng Lin<sup>†,&#42;</sup>, <strong>Jiahao Li<sup>†</sup></strong>, Hao Qin, and Yunche Zhu</div>
   <div class="pub-venue"><em>Laser &amp; Photonics Reviews</em></div>
@@ -143,15 +152,6 @@ author_profile: false
   <div class="pub-venue"><em>Results in Engineering</em></div>
   <div class="pub-tags">
     <span class="pub-tag">Published</span>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-title">Spatio-Sequential Recurrent Network for 3-D Tunnel Propagation Modeling</div>
-  <div class="pub-authors"><strong>Jiahao Li</strong>, Jingxin Xue, Keqi Ni, Kunyu Wu, Hao Qin<sup>&#42;</sup>, Xinyue Zhang, and Xingqi Zhang</div>
-  <div class="pub-venue"><em>IEEE Antennas and Wireless Propagation Letters</em></div>
-  <div class="pub-tags">
-    <span class="pub-tag">In Revision</span>
   </div>
 </div>
 
